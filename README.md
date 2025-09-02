@@ -46,3 +46,7 @@ Install dependencies:
 ```bash
 pip install pandas numpy scikit-learn torch statsmodels
 ```
+
+## 📬 Contact
+
+Created by [Taranom Torabi](mailto:taranom.torabi1377@gmail.com) — feel free to reach out with any questions or feedback!
